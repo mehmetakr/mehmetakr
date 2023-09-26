@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fw%2FEda7O1&psig=AOvVaw088bqzax2dMu_TSUQBehpv&ust=1694183493506000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODHhdnbmIEDFQAAAAAdAAAAABA0)
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQG8nlHpdnceIQ/profile-displaybackgroundimage-shrink_350_1400/0/1614290126961?e=1701302400&v=beta&t=FTY69iRLCvmstFLTsaBVaFaR-XQF3Otw8HHc27gTkgg)
 <h1 align="center">Hi 👋, I'm Mehmet Akpınar</h1>
 <h3 align="center">A passionate web3 and mobıle developer from Türkiye</h3>
 
