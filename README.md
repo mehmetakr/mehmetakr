@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E16AQG8nlHpdnceIQ/profile-displaybackgroundimage-shrink_350_1400/0/1614290126961?e=1701302400&v=beta&t=FTY69iRLCvmstFLTsaBVaFaR-XQF3Otw8HHc27gTkgg)
+![MasterHead](https://media.licdn.com/dms/image/C4E16AQG8nlHpdnceIQ/profile-displaybackgroundimage-shrink_350_1400/0/1614290130957?e=1708560000&v=beta&t=IGw4v257h8y_JPmNBHNbLczGIgz8CDva9qYBQr8P4KI)
 <h1 align="center">Hi 👋, I'm Mehmet Akpınar</h1>
 <h3 align="center">A passionate web3 and mobıle developer from Türkiye</h3>
 
