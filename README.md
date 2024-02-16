@@ -1,4 +1,4 @@
- [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*aniyNTcHORbvDiLGUzJSsQ.gif)
+ ![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*aniyNTcHORbvDiLGUzJSsQ.gif)
 <h1 align="center">Hi 👋, I'm Mehmet Akpınar</h1>
 <h3 align="center">A passionate web3 and mobıle developer from Türkiye</h3>
 
